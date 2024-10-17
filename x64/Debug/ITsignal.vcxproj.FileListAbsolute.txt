@@ -1,0 +1,16 @@
+C:\Users\liza0\OneDrive\Рабочий стол\Университет\ИТ\ITsignal\x64\Debug\ITsignal.vcxproj.AssemblyReference.cache
+C:\Users\liza0\OneDrive\Рабочий стол\Университет\ИТ\ITsignal\x64\Debug\ITsignal.MyForm.resources
+C:\Users\liza0\OneDrive\Рабочий стол\Университет\ИТ\ITsignal\x64\Debug\ITsignal.vcxproj.GenerateResource.cache
+C:\Users\liza0\OneDrive\Рабочий стол\Университет\ИТ\ITsignal\x64\Debug\ITsignal.exe
+C:\Users\Super\Desktop\Дворова Лиза\ITsignal\x64\Debug\ITsignal.vcxproj.AssemblyReference.cache
+C:\Users\Super\Desktop\Дворова Лиза\ITsignal\x64\Debug\ITsignal.MyForm.resources
+C:\Users\Super\Desktop\Дворова Лиза\ITsignal\x64\Debug\ITsignal.vcxproj.GenerateResource.cache
+C:\Users\Super\Desktop\Дворова Лиза\ITsignal\x64\Debug\ITsignal.exe
+E:\ITsignal\ITsignal\x64\Debug\ITsignal.vcxproj.AssemblyReference.cache
+E:\ITsignal\ITsignal\x64\Debug\ITsignal.MyForm.resources
+E:\ITsignal\ITsignal\x64\Debug\ITsignal.vcxproj.GenerateResource.cache
+E:\ITsignal\ITsignal\x64\Debug\ITsignal.exe
+F:\ITsignal\ITsignal\x64\Debug\ITsignal.vcxproj.AssemblyReference.cache
+F:\ITsignal\ITsignal\x64\Debug\ITsignal.MyForm.resources
+F:\ITsignal\ITsignal\x64\Debug\ITsignal.vcxproj.GenerateResource.cache
+F:\ITsignal\ITsignal\x64\Debug\ITsignal.exe

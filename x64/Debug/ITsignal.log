@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+E:\ITsignal\ITsignal\MyForm.cpp(293,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ITsignal.vcxproj -> E:\ITsignal\ITsignal\x64\Debug\ITsignal.exe

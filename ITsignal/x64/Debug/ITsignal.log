@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+D:\ITsignal\ITsignal\MyForm.cpp(154,32): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+D:\ITsignal\ITsignal\MyForm.cpp(155,31): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+D:\ITsignal\ITsignal\MyForm.cpp(171,12): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ITsignal.vcxproj -> D:\ITsignal\ITsignal\x64\Debug\ITsignal.exe

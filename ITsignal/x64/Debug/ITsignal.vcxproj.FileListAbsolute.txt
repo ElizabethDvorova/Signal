@@ -1,0 +1,6 @@
+C:\Users\Пользователь\Downloads\Telegram Desktop\ITsignal\ITsignal\ITsignal\x64\Debug\ITsignal.vcxproj.AssemblyReference.cache
+C:\Users\Пользователь\Downloads\Telegram Desktop\ITsignal\ITsignal\ITsignal\x64\Debug\ITsignal.MyForm.resources
+C:\Users\Пользователь\Downloads\Telegram Desktop\ITsignal\ITsignal\ITsignal\x64\Debug\ITsignal.vcxproj.GenerateResource.cache
+D:\ITsignal\ITsignal\ITsignal\x64\Debug\ITsignal.vcxproj.AssemblyReference.cache
+D:\ITsignal\ITsignal\ITsignal\x64\Debug\ITsignal.MyForm.resources
+D:\ITsignal\ITsignal\ITsignal\x64\Debug\ITsignal.vcxproj.GenerateResource.cache
